@@ -42,7 +42,7 @@ export const handleLogin = async(req, res) => {
         isExistingUser.refreshToken = refreshToken ;
         await isExistingUser.save();
                 
-        res.cookie('jwt', refreshToken, { httpOnly: true, setSite: 'None',  maxAge: 24 * 60 * 60 *1000 }); //secure: true
+        res.cookie('jwt', refreshToken, { httpOnly: true, setSite: 'None', secure: true, maxAge: 24 * 60 * 60 *1000 }); //secure: true
         res.status(200).json( accessToken );
     } else {
         res.status(401).json({'message': `Unauthorized: Log in failled`});
