@@ -1,0 +1,125 @@
+20220821	21:01:21	a3957554-6365-4e43-b6b4-7c0ff2ea9231	Not allowed by Cors
+20220821	21:03:39	5d2639e5-d9cf-4a85-b668-5758a3e97a5a	Error	Not allowed by Cors
+20220821	22:18:47	8f06be81-8ac0-4246-91f2-2c0031ea03ec	ReferenceError	__dirname is not defined
+20220821	22:20:26	337e5f22-c64e-437a-8663-faa0c76c0af7	ReferenceError	__dirname is not defined
+20220821	22:41:35	a94dd77d-a7f6-4c56-b24b-d67c5d972da0	Error	ENOENT: no such file or directory, stat '/home/ontime/Desktop/Projects/nodeLesson/routes/views/index.html'
+20220822	10:14:20	c0132592-2432-4fc0-aa16-7ad6fa45cd26	TypeError	data is not iterable
+20220822	10:19:25	0bbe7437-4d02-4c4b-87e8-de8d00c98b4b	TypeError	data is not iterable
+20220822	10:20:49	e12180c3-cb45-4441-8ec8-866ffff77c66	TypeError	data is not iterable
+20220822	10:26:50	86953026-68fa-4042-8788-542afb86c852	TypeError	data is not iterable
+20220822	10:34:59	217b0885-863f-49f2-97ab-1b9fe02b269d	ReferenceError	employees is not defined
+20220822	10:51:47	00ef2f5f-9030-4708-ba11-263249180871	ReferenceError	employees is not defined
+20220822	10:52:44	6fe0e8c3-be44-402a-b717-82eb09c0aa20	TypeError	Cannot set properties of undefined (setting 'employees')
+20220822	10:54:48	ec9d594c-8d26-439c-8d7f-11c6fe08369e	ReferenceError	employees is not defined
+20220823	18:29:24	c6387edb-22a8-4696-81c7-59f3c8f6ffe3	ReferenceError	whiteList is not defined
+20220824	21:11:06	af597665-548e-4919-aac4-e0e3d820be52	SyntaxError	Unexpected token f in JSON at position 21
+20220825	17:33:21	1d2d8f77-5292-41a4-a7b3-5467f28b9efe	ValidationError	Employee validation failed: lastname: Path `lastname` is required., firstname: Path `firstname` is required.
+20220825	17:37:42	8ad91792-1793-43cb-bbc0-7f8f38c72d90	ValidationError	Employee validation failed: lastname: Path `lastname` is required., firstname: Path `firstname` is required.
+20220825	17:38:13	68ee3766-5f1d-45b6-b2f6-af9824c0f18a	ValidationError	Employee validation failed: lastname: Path `lastname` is required., firstname: Path `firstname` is required.
+20220825	17:38:32	aa323886-b65f-444c-9589-f197615c5fac	ValidationError	Employee validation failed: lastname: Path `lastname` is required., firstname: Path `firstname` is required.
+20220825	17:49:51	b963e4c9-392c-478f-ac7e-d32d6cf8b775	undefined	username and Password are required
+20220825	17:51:45	b03fbe0c-f553-40a0-bf87-e6d1210535fd	undefined	username and Password are required
+20220825	17:54:24	d20622e9-3439-4650-aee5-38ec900d6821	undefined	username and Password are required
+20220825	17:58:13	bacc0834-d1e4-4559-96c6-76fd77971d51	undefined	username and Password are required
+20220825	17:58:14	1d11d8cb-355c-4c10-87e7-4b8ed977aae7	ValidationError	User validation failed: username: Path `username` is required.
+20220825	17:59:23	8cd87ce8-4f80-432f-aa6c-412dc468809d	undefined	username and Password are required
+20220825	17:59:24	68b70d6e-aff3-4e9e-add5-924597319d4c	ValidationError	User validation failed: username: Path `username` is required.
+20220825	18:01:57	a855d33c-e611-4e87-a0c3-1d194ef65c17	ValidationError	User validation failed: username: Path `username` is required.
+20220825	18:04:12	42525e65-07f1-44c6-8d6e-d505044a5565	Error	Cannot set headers after they are sent to the client
+20220825	18:05:42	85a69ba4-ec7c-4200-bfb7-b09d76e593de	ValidationError	User validation failed: username: Path `username` is required.
+20220825	18:07:37	14a129cb-a941-4545-a402-3ad10e13cccd	ValidationError	User validation failed: username: Path `username` is required.
+20220825	18:08:02	f607f7b6-6dba-4bb3-9688-aa4de37684e6	Error	Cannot set headers after they are sent to the client
+20220825	18:09:42	b477889a-64d9-40c2-8b61-f85b7a8ec115	Error	Cannot set headers after they are sent to the client
+20220825	18:10:21	41911b4c-be52-45ac-815f-9598fdbd840a	Error	Cannot set headers after they are sent to the client
+20220825	18:11:05	529946df-bc77-43da-89fd-895695481ccb	Error	Cannot set headers after they are sent to the client
+20220825	18:23:39	61e82db8-9f69-4cb7-8f64-fd937c65b294	TypeError	Cannot read properties of null (reading 'password')
+20220825	18:29:21	8caf85a3-e864-42f1-9d61-27e660db486f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:13	3565db5f-711e-4786-b5dc-057a93f3a97b	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:17	470dd57f-0827-4673-ad2b-f27cb67b3633	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:19	f2917486-f1e5-4595-9080-fdb1da509652	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:21	a61d49fe-9c98-4cf3-bf7b-2243ad6e2120	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:22	14e80091-cd8d-4526-9e8e-e41cedf74c3b	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:26	0916d149-6a10-4682-83da-a6a3fe5f9f16	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:29	ce5a1625-7acc-4798-99d2-567084afe649	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:30	dba9d9fa-0a61-462f-8e52-b106cd3f3e2d	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:34	cf123d15-2141-4461-b7b7-702e8e05ed6a	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:37	fefaff38-a45a-4554-8eaf-a3ee33dc2a41	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:38	fadb2fd9-728a-417f-b17b-b6527533c879	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:42	62b41965-152b-4fd5-8f0b-d25a4cf8057f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:30:45	f19c9614-e1cb-4806-b257-376b4ae23950	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:31:56	9d2c2dde-dc7f-4f04-ac71-28f1192dfe68	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:33:12	1511254b-9c2c-4e10-9ef9-e8d7e549a2c8	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:34:38	9f771a85-dd49-4ae5-a243-10fabd3d6a50	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:34:40	ed906532-3b72-4de8-8c71-a127c1a7126c	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:34:42	33b3475f-ccae-46b9-aa96-a9a40bb79ac4	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:34:47	0805cbfa-1e6b-466d-a5d9-42aa99a82a7f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:34:59	d43e563d-c5b8-4f1e-b59b-c07342422989	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:35:04	c94628af-a905-49ff-83c0-f86b4dd2882a	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:35:09	bf4de6c9-9627-42d2-a2e6-72147076bb1b	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:36:24	f67a3ab8-ca47-47a8-a547-9cc775efa1b1	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:39:05	2de122f3-05da-46f3-a757-a259319f8455	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:39:06	19c06d19-df79-434b-89bf-728ec9062430	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:39:16	88ca6f75-a887-4fec-a55c-6b1d02ff585f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:43:11	3ae8c100-a550-4c67-9806-97c9b217a795	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:43:24	47f9791c-8427-4ae5-80e0-ced8267ef46e	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:43:58	86da9bc6-05ba-4919-9f9b-916d236c2234	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:00	3a8e175a-d4b0-4133-b044-38bc4f67385f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:02	822e88f1-dfb4-46c0-b8b5-b380424775c9	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:19	0d9423e2-c243-4e47-967f-e046f3452fed	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:25	bd9a2422-4c59-47a5-945d-1b8beca5f814	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:27	f3e3c41e-2a2a-4c61-adc2-12b3b45018ff	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:28	e18ae93f-e92c-4252-94ff-79a4fcd81584	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:36	1aba108d-7265-4e41-949a-06b67604532e	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:37	5e3efc78-5493-496b-86d1-fcc9866baf35	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:39	4225fc9d-8e50-4aae-b1eb-443850f9e4a1	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:41	6ed9ad4d-d73b-446c-a02f-a13c4e8d6b5c	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:42	80aea9ca-a05a-4daf-b3c8-2c667bade615	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:44:53	5a467b00-49d2-4f0d-a3ca-9f580b3dd484	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:45:01	e34262e6-ffe5-4a70-9e3f-587920c4d2fe	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:45:04	d6299b2b-be33-4609-9200-da8bd7e018f6	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:12	abf2cd1c-733b-4b33-82cd-0e22d3570c5a	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:15	9cda7aa1-298d-42d0-8e79-230e542cd4f2	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:24	a14e84ef-2550-4337-8802-9c520e63907f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:27	c5b0311a-0b3d-4a82-a4a9-6633a71271ca	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:28	bb676a22-fdb6-4df0-a7a8-bb28763d1009	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:38	7f257e55-43c4-4b08-a373-561bad933f2f	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:40	8f6e3246-9c8b-4a7d-9e33-e98bc75a06ea	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:47	8f580fb9-9d42-4995-998a-409f2550b7c6	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:50	c673e9dd-ff89-4b13-907a-1c243803e8a0	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:48:51	7a0434af-f839-4931-9638-d1e0229db02a	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:10	cbdab78c-3cd2-47e8-915b-f2ceddf68617	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:11	8117d273-f32d-4465-a154-2d31ac7aa83e	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:24	b6d480f1-76bb-47ba-8c8d-53c18d05e2a4	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:27	9233e019-8a57-466c-8037-8cf167da425c	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:34	25201ec6-ebb0-46a3-a369-c0090a453bf5	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:37	d9635dc3-200f-4cea-9d1d-148f7ec7cb44	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:49:38	6f0dbc00-2946-4a8b-ba2a-57e97585aabe	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:51:05	25a45b1e-9187-4f53-9f5e-1446e5d1f98e	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:51:09	84582f71-3530-41ea-accc-13449dcd12bf	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:51:34	d116a5ed-2d10-44cc-9551-18fa698c5040	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220825	18:51:46	46f99ab2-a900-4d91-bde7-e3f22999bb7b	Error	querySrv ESERVFAIL _mongodb._tcp.cluster0.ejlap.mongodb.net
+20220826	08:23:35	3463b7d5-8b42-4087-97f4-c21f7fcba70a	TypeError	Cannot read properties of undefined (reading 'split')
+20220826	08:30:02	4e22c7ea-0e81-453e-9128-6cf2a8324d67	TypeError	Cannot read properties of undefined (reading 'split')
+20220826	08:39:16	2591c1ab-38f3-48f9-90d6-0e008358011c	TypeError	Cannot read properties of undefined (reading 'split')
+20220826	08:45:37	5807a8f6-8e60-47db-bdb3-ea3d4bcdc388	TypeError	Cannot read properties of undefined (reading 'UserInfo')
+20220826	08:49:49	4fa4dc6b-0b20-4e16-b716-e6423a5b1b6a	Error	Cannot set headers after they are sent to the client
+20220826	08:50:55	0e183f0f-f55a-4c49-bba8-bbfdb6ed261f	TypeError	Cannot read properties of undefined (reading 'UserInfo')
+20220826	08:51:20	559bcf9a-fd6e-46ff-b36f-91969ebe5add	CastError	Cast to ObjectId failed for value "6307f80a15637177dd162bd" (type string) at path "_id" for model "Employee"
+20220826	08:52:10	eba85acf-4ef1-4f9d-95b0-edfec865fcb0	CastError	Cast to ObjectId failed for value "6307f80a15637177dd162bd" (type string) at path "_id" for model "Employee"
+20220826	08:53:37	8517598d-1b70-4eb9-b2e8-53d987a64600	TypeError	Cannot read properties of undefined (reading 'UserInfo')
+20220826	09:00:03	a113ad00-7f8d-41e1-a678-f939292141f5	TypeError	Cannot read properties of undefined (reading 'UserInfo')
+20220826	09:00:38	9782b5ab-42a3-418e-aa09-631e2ee59508	ValidationError	Employee validation failed: firstname: Path `firstname` is required.
+20220826	09:01:55	a7fcb4ae-9e4e-4cfa-8d0f-3b7ce498b4b4	TypeError	Cannot read properties of undefined (reading 'UserInfo')
+20220826	09:02:32	63cce18e-89c5-4070-9357-dbc3fda0bba5	ReferenceError	data is not defined
+20220826	09:22:47	f6418c55-e7f1-4969-baa5-b84d3cc6d91f	Error	Cannot set headers after they are sent to the client
+20220826	09:25:29	010daa85-eaf6-43b3-92c4-89d5c9522b99	Error	Cannot set headers after they are sent to the client
+20220826	09:26:33	15b94550-d312-4a0c-a83d-baab101d476a	Error	Cannot set headers after they are sent to the client
+20220826	09:29:43	dac25fd7-1ada-4aa6-b6f6-6422774ea3a2	Error	Cannot set headers after they are sent to the client
+20220826	09:30:58	9138a204-a31b-42bf-a1ad-845fcc6186c9	Error	Cannot set headers after they are sent to the client
+20220826	09:31:42	21807998-fbca-43dd-ab97-c6be610488b8	Error	Cannot set headers after they are sent to the client
+20220826	09:32:06	0dbc6685-0d81-4737-80dd-e039d632d1e4	Error	Cannot set headers after they are sent to the client
+20220826	09:34:46	ac47c2d9-c0ca-4e66-8cb3-e81b21e0cf92	TypeError	Cannot read properties of null (reading 'password')
+20220826	09:35:18	0abf668a-8d7b-4f7c-a873-5955de6ca896	TypeError	Cannot read properties of null (reading 'password')
+20220826	10:29:14	559f3b7f-5d96-4a21-b7da-f91b6cf2d7cb	TypeError	Cannot read properties of null (reading 'password')
+20220826	10:44:20	304051b0-d2ec-4243-ab1c-6c50bfb7f46d	TypeError	Cannot read properties of undefined (reading 'authorization')
+20220826	10:45:08	531342df-e550-4bd2-8e2e-a9823b89834a	TypeError	Cannot read properties of undefined (reading 'split')
